@@ -24,9 +24,9 @@
 <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2021-333333?style=for-the-badge&logo=apple&logoColor=white"/> 
 
 ## 🛒 My Producst
-[![SSLC Kerala](https://i.imgur.com/qCB4uoU.jpeg)](https://play.google.com/store/apps/details?id=com.basith.sslckerala)
+[![SSLC Kerala](https://i.imgur.com/qCB4uoU.jpeg)](https://play.google.com/store/apps/details?id=com.basith.sslckerala) [SSLC KERALA APP]
 
-[![Sasthracheppu](https://i.imgur.com/dXjWuyf.jpeg)](https://play.google.com/store/apps/details?id=com.basith.sasthracheppuapp)
+[![Sasthracheppu](https://i.imgur.com/dXjWuyf.jpeg)](https://play.google.com/store/apps/details?id=com.basith.sasthracheppuapp) [SASTHRACHEPPU APP]
 
 
 ## 📈 Activity Graph
