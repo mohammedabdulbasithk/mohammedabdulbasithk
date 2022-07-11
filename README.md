@@ -22,13 +22,21 @@
 
 ## 🛒 Projects I have worked (iOS)
 [Ourshopee - E-Commerece](https://apps.apple.com/ae/app/ourshopee-online-shopping/id1226954989)
+
 [Zawia - Interior Designing](https://apps.apple.com/us/app/zawia/id1430356379)
+
 [Crewbid Valet - Aviation](https://apps.apple.com/us/app/crewbid-valet/id1233677874)
+
 [Crewbid iPad - Aviation](https://apps.apple.com/us/app/crewbid/id563832596)
+
 [WbidMax iPad - Aviation](https://apps.apple.com/us/app/wbidmax/id892320623)
+
 [Crewbid2 iPad - Aviation](https://apps.apple.com/us/app/crewbid2/id1620490378)
+
 [RealTime Staff - Academic Institution](https://apps.apple.com/us/app/realtime-staff-app/id1466986059)
+
 [RealTime Parent - Academic Institution](https://apps.apple.com/us/app/realtime-link-for-parents/id1235053154)
+
 [AME Boss - Sales Report](https://apps.apple.com/us/app/ame-boss-app/id1604076966?platform=iphone)
 
 ## 👨🏻‍💻 Laptop in use
