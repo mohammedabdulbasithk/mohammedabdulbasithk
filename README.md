@@ -57,11 +57,6 @@ Smart Delivery
 [![UOC STUDENTS APP](https://i.imgur.com/BoLwIBa.jpeg)](https://play.google.com/store/apps/details?id=com.basith.uocstudentsapp) [UOC STUDENTS APP](https://play.google.com/store/apps/details?id=com.basith.uocstudentsapp)
 
 
-## 📈 Activity Graph
-<p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=mohammedabdulbasithk&theme=minimal"/>
-</p>
-
 ## 💳 Github Profile Summary Card
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammedabdulbasithk&theme=vue"/>
