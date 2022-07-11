@@ -20,10 +20,13 @@
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+## 🛒 Projects I have worked
+[Ourshopee - E commerece app](https://play.google.com/store/apps/details?id=com.basith.sslckerala)
+
 ## 👨🏻‍💻 Laptop in use
 <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2021-333333?style=for-the-badge&logo=apple&logoColor=white"/> 
 
-## 🛒 My Producsts [Android PlayStore]
+## 🛒 My Products [Android PlayStore]
 [![SSLC Kerala](https://i.imgur.com/qCB4uoU.jpeg)](https://play.google.com/store/apps/details?id=com.basith.sslckerala) [SSLC KERALA APP](https://play.google.com/store/apps/details?id=com.basith.sslckerala)
 
 [![Sasthracheppu](https://i.imgur.com/dXjWuyf.jpeg)](https://play.google.com/store/apps/details?id=com.basith.sasthracheppuapp) [SASTHRACHEPPU APP](https://play.google.com/store/apps/details?id=com.basith.sasthracheppuapp)
