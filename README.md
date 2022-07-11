@@ -21,23 +21,23 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 🛒 Projects I have worked (iOS)
-[Ourshopee - E-Commerece](https://apps.apple.com/ae/app/ourshopee-online-shopping/id1226954989)
+[🛒 Ourshopee - E-Commerece](https://apps.apple.com/ae/app/ourshopee-online-shopping/id1226954989)
 
-[Zawia - Interior Designing](https://apps.apple.com/us/app/zawia/id1430356379)
+[🖥 Zawia - Interior Designing](https://apps.apple.com/us/app/zawia/id1430356379)
 
-[Crewbid Valet - Aviation](https://apps.apple.com/us/app/crewbid-valet/id1233677874)
+[🛩 Crewbid Valet - Aviation](https://apps.apple.com/us/app/crewbid-valet/id1233677874)
 
-[Crewbid iPad - Aviation](https://apps.apple.com/us/app/crewbid/id563832596)
+[🛩 Crewbid iPad - Aviation](https://apps.apple.com/us/app/crewbid/id563832596)
 
-[WbidMax iPad - Aviation](https://apps.apple.com/us/app/wbidmax/id892320623)
+[🛩 WbidMax iPad - Aviation](https://apps.apple.com/us/app/wbidmax/id892320623)
 
-[Crewbid2 iPad - Aviation](https://apps.apple.com/us/app/crewbid2/id1620490378)
+[🛩 Crewbid2 iPad - Aviation](https://apps.apple.com/us/app/crewbid2/id1620490378)
 
-[RealTime Staff - Academic Institution](https://apps.apple.com/us/app/realtime-staff-app/id1466986059)
+[📖 RealTime Staff - Academic Institution](https://apps.apple.com/us/app/realtime-staff-app/id1466986059)
 
-[RealTime Parent - Academic Institution](https://apps.apple.com/us/app/realtime-link-for-parents/id1235053154)
+[📖 RealTime Parent - Academic Institution](https://apps.apple.com/us/app/realtime-link-for-parents/id1235053154)
 
-[AME Boss - Sales Report](https://apps.apple.com/us/app/ame-boss-app/id1604076966?platform=iphone)
+[📈 AME Boss - Sales Report](https://apps.apple.com/us/app/ame-boss-app/id1604076966?platform=iphone)
 
 ## 👨🏻‍💻 Laptop in use
 <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2021-333333?style=for-the-badge&logo=apple&logoColor=white"/> 
