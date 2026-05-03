@@ -7,7 +7,7 @@
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
-- 🔭 I’m currently building [CrewBid](https://apps.apple.com/us/app/crewbid-valet/id1233677874).
+- 🔭 I’m currently building [Sephora](https://www.sephora.com/).
 - 🌱 I’m currently learning more about SwiftUI.
 - 💬 Ask me about Swift or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
