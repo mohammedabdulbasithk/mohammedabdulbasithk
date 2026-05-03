@@ -47,14 +47,24 @@
 ## 👨🏻‍💻 Laptop in use
 <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2021-333333?style=for-the-badge&logo=apple&logoColor=white"/> 
 
-## 🛒 My Products [Android PlayStore]
-[[SSLC Kerala]](https://play.google.com/store/apps/details?id=com.basith.sslckerala) [SSLC KERALA APP](https://play.google.com/store/apps/details?id=com.basith.sslckerala)
+## 🛒 My Own Products
+[Ktet Master App - iOS](https://apps.apple.com/in/app/ktet-master/id6742832481)
 
-[[Sasthracheppu]](https://play.google.com/store/apps/details?id=com.basith.sasthracheppuapp) [SASTHRACHEPPU APP](https://play.google.com/store/apps/details?id=com.basith.sasthracheppuapp)
+[Ktet Master App - Android](https://play.google.com/store/apps/details?id=com.mohammedabdulbasithk.learners&hl=en_IN)
 
-[[Relaxing Murmur]](https://play.google.com/store/apps/details?id=com.basith.relaxingmurmur) [Relaxing Murmur](https://play.google.com/store/apps/details?id=com.basith.relaxingmurmur)
+[Ktet Master App - Web](https://www.ktetmaster.in/)
 
-[[UOC STUDENTS APP]](https://play.google.com/store/apps/details?id=com.basith.uocstudentsapp) [UOC STUDENTS APP](https://play.google.com/store/apps/details?id=com.basith.uocstudentsapp)
+[D El Ed Kerala Learning App - iOS](https://apps.apple.com/us/app/d-el-ed-kerala-learning-app/id6741382255)
+
+[D El Ed Kerala Learning App - Android](https://play.google.com/store/apps/details?id=com.mab.dled.deled)
+
+[SSLC Kerala App](https://play.google.com/store/apps/details?id=com.basith.sslckerala)
+
+[Sasthracheppu APP](https://play.google.com/store/apps/details?id=com.basith.sasthracheppuapp)
+
+[Relaxing Murmur](https://play.google.com/store/apps/details?id=com.basith.relaxingmurmur)
+
+[UOC Students App](https://play.google.com/store/apps/details?id=com.basith.uocstudentsapp)
 
 
 ## 💳 Github Profile Summary Card
