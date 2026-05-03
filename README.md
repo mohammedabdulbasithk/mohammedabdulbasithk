@@ -66,6 +66,8 @@
 
 [UOC Students App](https://play.google.com/store/apps/details?id=com.basith.uocstudentsapp)
 
+[MG University Notes App](https://play.google.com/store/apps/details?id=com.mab.university)
+
 
 ## 💳 Github Profile Summary Card
 <p align="center">
