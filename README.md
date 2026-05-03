@@ -19,7 +19,7 @@
 
 ## 💻 Tech Stack
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) (Objective C) (SwiftUI)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java]
 
 ## 💻 Projects I have worked (iOS)
 [🛒 Sephora - E-Commerece](https://apps.apple.com/us/app/sephora-us-makeup-skincare/id393328150)
@@ -44,8 +44,7 @@
 
 [🛒 Smart Delivery](https://apps.apple.com/us/app/smart-delivery/id1609635497?platform=iphone)
 
-## 👨🏻‍💻 Laptop in use
-<img src="https://img.shields.io/badge/Apple-MacBook_Pro_2021-333333?style=for-the-badge&logo=apple&logoColor=white"/> 
+
 
 ## 🛒 My Own Products
 [Ktet Master App - iOS](https://apps.apple.com/in/app/ktet-master/id6742832481)
@@ -76,8 +75,7 @@
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohammedabdulbasithk&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedabdulbasithk&theme=vue" />
+	<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedabdulbasithk&theme=vue" />
 </p>
 
 <div align="center">
